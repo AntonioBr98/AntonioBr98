@@ -31,5 +31,5 @@ SailPoint | Ping Identity | Microsoft Entra ID | Okta | Auth0 | OneLogin | SAP I
 
 ## Links
 
-- My website: [antonio-braccolino.netlify.app](https://antonio-braccolino.netlify.app)
+- My website: [https://antoniobraccolino.com](https://antoniobraccolino.com/)
 - Certifications and badges: [Credly](https://www.credly.com/users/antonio-braccolino.873b7926)
